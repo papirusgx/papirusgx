@@ -17,11 +17,21 @@ Metas para 2020
 
  Entrar em contato
  
-<a href="https://www.linkedin.com/in/michael-soto-81195a89/" img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-<img src=	"https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/michael-soto-81195a89/">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+</a> 
 
+<a href="https://https://www.instagram.com/michaelsoto.fc/">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" >
+</a> 
+
+<a href="https://www.facebook.com/profile.php?id=100042071982561/">
+<img src=	"https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" >
+</a> 
+
+<a href="mailto:michaelsoto.fcgmail.com">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >
+</a> 
 
 
 
