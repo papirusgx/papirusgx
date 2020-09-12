@@ -21,7 +21,7 @@ Metas para 2020
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
 </a> 
 
-<a href="https://https://www.instagram.com/michaelsoto.fc/">
+<a href="https://www.instagram.com/michaelsoto.fc/">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" >
 </a> 
 
