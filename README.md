@@ -4,7 +4,6 @@
 
 <br>
 <br>
-![Azul](https://i.imgur.com/nsWE2TF.png );
 
 Atualmente estou aprendendo
 
